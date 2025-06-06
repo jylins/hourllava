@@ -33,10 +33,10 @@ Coming soon..
 
 ## 4 Citation
 ```bash
-@article{lin2025xxxx,
+@article{lin2025unleashing,
   author    = {Lin, Jingyang and Wu, Jialian and Sun, Ximeng and Wang, Ze and Liu, Jiang and Chen, Hao and Luo, Jiebo and Liu, Zicheng and Barsoum, Emad},
   title     = {Unleashing Hour-Scale Video Training for Long Video-Language Understanding},
-  journal   = {arXiv preprint arXiv:xxxx.xxxxx},
+  journal   = {arXiv preprint arXiv:2506.05332},
   year      = {2025},
 }
 ```
