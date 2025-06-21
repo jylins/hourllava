@@ -28,13 +28,13 @@
 - [2025.6] Release the VideoMarathon Dataset.
 
 ## Table of Contents
-- [VideoMarathon Dataset](#-1-videomarathon-dataset)
-- [Hour-LLaVA](#-2-hour-llava)
-- [Requirements](#-3-requirements)
-- [Installation](#-4-installation)
-- [Training](#-5-training)
-- [Acknowledgments](#-6-acknowledgments)
-- [Citation](#-7-citation)
+- [VideoMarathon Dataset](#1-videomarathon-dataset)
+- [Hour-LLaVA](#2-hour-llava)
+- [Requirements](#3-requirements)
+- [Installation](#4-installation)
+- [Training](#5-training)
+- [Acknowledgments](#6-acknowledgments)
+- [Citation](#7-citation)
 
 ## 1 VideoMarathon Dataset
 **VideoMarathon** is a large-scale long video instruction-following dataset with a total duration of approximately **9,700 hours**, comprising **3.3 million QA pairs** across **22 task categories**.
