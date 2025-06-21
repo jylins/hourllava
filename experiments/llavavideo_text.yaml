@@ -1,0 +1,7 @@
+datasets:
+  - json_path: ./data/LLaVA-OneVision/jsons/magpie_pro_qwen2_72b_st_300000_sp_token_fltd_299992.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/magpie_pro_l3_80b_st_300000.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/magpie_pro_l3_80b_mt_300000_sp_token_fltd_299998.json
+    sampling_strategy: "all"

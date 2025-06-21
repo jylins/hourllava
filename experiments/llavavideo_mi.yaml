@@ -1,0 +1,72 @@
+datasets:
+  # multi-image
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/raven_35000.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/dreamsim_15941.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/contrastive_caption_25240.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/nuscenes_9806.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/magicbrush_diff_6698.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/recipeqa_imagecoherence_8699.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/clevr_change_3885.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/docvqa_1900.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/nlvr2_86373.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/iconqa_34603.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/alfred_22565.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/birds_to_words_14281.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/vision_9900.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/tqa_8249.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/nextqa_3870.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/mit_states_propertycoherence_1900.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/coinstruct_50000.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/vist_26026.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/flintstonessv_22341.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/pororosv_12299.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/webqa_9338.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/aesop_6915.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/multi_vqa_4993.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/iedit_3456.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/mit_states_statecoherence_1900.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/scannet_49890.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/scanqa_25563.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/imagecode_16594.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/spot_the_diff_10774.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/hq_edit_diff_7000.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/vizwiz_4900.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/star_3032.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/ocr_vqa_1900.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/recipeqa_visualcloze_8834.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-OneVision/jsons/multi_image/comics_dialogue_6000.json
+    sampling_strategy: "all"

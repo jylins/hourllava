@@ -1,0 +1,80 @@
+datasets:
+  # video
+  - json_path: ./data/LLaVA-Video-178K/jsons/sharegptvideo_qa_255k.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/0_30_s_academic_v0_1_cap.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/0_30_s_youtube_v0_1_cap.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/30_60_s_academic_v0_1_cap.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/30_60_s_youtube_v0_1_cap.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/1_2_m_academic_v0_1_cap.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/1_2_m_youtube_v0_1_cap.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/0_30_s_academic_oe_v0_1_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/0_30_s_academic_mc_v0_1_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/0_30_s_youtube_oe_v0_1_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/0_30_s_youtube_mc_v0_1_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/0_30_s_activitynetqa_oe_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/0_30_s_nextqa_oe_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/0_30_s_nextqa_mc_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/0_30_s_perceptiontest_mc_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/30_60_s_academic_oe_v0_1_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/30_60_s_academic_mc_v0_1_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/30_60_s_youtube_oe_v0_1_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/30_60_s_youtube_mc_v0_1_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/30_60_s_activitynetqa_oe_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/30_60_s_nextqa_oe_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/30_60_s_nextqa_mc_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/30_60_s_perceptiontest_mc_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/1_2_m_academic_oe_v0_1_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/1_2_m_academic_mc_v0_1_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/1_2_m_youtube_oe_v0_1_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/1_2_m_youtube_mc_v0_1_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/1_2_m_activitynetqa_oe_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/1_2_m_nextqa_oe_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/1_2_m_nextqa_mc_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/2_3_m_academic_v0_1_cap.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/2_3_m_youtube_v0_1_cap.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/2_3_m_academic_oe_v0_1_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/2_3_m_academic_mc_v0_1_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/2_3_m_youtube_oe_v0_1_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/2_3_m_youtube_mc_v0_1_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/2_3_m_nextqa_oe_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/2_3_m_nextqa_mc_qa.json
+    sampling_strategy: "all"
+  - json_path: ./data/LLaVA-Video-178K/jsons/2_3_m_activitynetqa_oe_qa.json
+    sampling_strategy: "all"

@@ -1,0 +1,6 @@
+datasets:
+  - local_path: ./data/VideoMarathon/sharding/llavavideo_text_part0
+  - local_path: ./data/VideoMarathon/sharding/llavavideo_si_part0
+  - local_path: ./data/VideoMarathon/sharding/llavavideo_mi_part0
+  - local_path: ./data/VideoMarathon/sharding/llavavideo_video_part0
+  - local_path: ./data/VideoMarathon/sharding/llavavideo_video_part1

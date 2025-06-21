@@ -1,0 +1,11 @@
+datasets:
+  - local_path: ./data/VideoMarathon/sharding/llava_ov_si_onlyimg_part0
+  - local_path: ./data/VideoMarathon/sharding/llava_ov_si_onlyimg_part1
+  - local_path: ./data/VideoMarathon/sharding/llava_ov_si_onlyimg_part2
+  - local_path: ./data/VideoMarathon/sharding/llava_ov_si_onlyimg_part3
+  - local_path: ./data/VideoMarathon/sharding/llava_ov_si_onlyimg_part4
+  - local_path: ./data/VideoMarathon/sharding/llava_ov_si_onlyimg_part5
+  - local_path: ./data/VideoMarathon/sharding/llava_ov_si_onlyimg_part6
+  - local_path: ./data/VideoMarathon/sharding/llava_ov_si_onlyimg_part7
+  - local_path: ./data/VideoMarathon/sharding/llava_ov_si_onlyimg_part8
+  - local_path: ./data/VideoMarathon/sharding/llava_ov_si_onlyimg_part9
