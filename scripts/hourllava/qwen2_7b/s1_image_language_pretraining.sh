@@ -17,7 +17,7 @@ PROMPT_VERSION="qwen_1_5"
 
 ########### Stage 1: Image-Language Pretraining ###########
 RUN_NAME="hourllava-${VISION_MODEL_VERSION_CLEAN}-${LLM_VERSION_CLEAN}-s1" 
-PREV_STAGE_CHECKPOINT="jylins/llava-onevision-qwen25-3b-si"
+PREV_STAGE_CHECKPOINT="lmms-lab/llava-onevision-qwen2-7b-si"
 echo "PREV_STAGE_CHECKPOINT: ${PREV_STAGE_CHECKPOINT}"
 echo "RUN_NAME: ${RUN_NAME}"
 
